@@ -8,7 +8,24 @@ author_profile: true
 \* denotes equal contribution
 -->
 
-**To be continue** \
+**Cachence: Fine-Grained Cache Partitioning in Both Time and Space** \
+<ins>Liujia Li</ins>, Yuanlong Li, Yiming Yao, Jianyu Wu, Yi Fan, Jinhao Guo, Liren Zhu, Jie Zhang, Xiaolin Wang, Yingwei Luo, Zhenlin Wang, and Diyu Zhou \
+63rd ACM/IEEE Design Automation Conference (DAC '26) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](https://doi.org/10.1145/3770743.3803974)
+&nbsp; <i class="fas fa-link"></i> [doi](https://doi.org/10.1145/3770743.3803974)
+
+**Criticality-Aware Instruction-Centric Bandwidth Partitioning for Data Center Applications** \
+Liren Zhu, <ins>Liujia Li</ins>, Jianyu Wu, Yiming Yao, Zhan Shi, Jie Zhang, Zhenlin Wang, Xiaolin Wang, Yingwei Luo, and Diyu Zhou \
+2025 IEEE International Symposium on High Performance Computer Architecture (HPCA '25) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10946736)
+&nbsp; <i class="fas fa-link"></i> [doi](https://doi.org/10.1109/HPCA61900.2025.00042)
+&nbsp; <i class="fab fa-github"></i> [code](https://github.com/TELOS-syslab/Pivot)
+
+**EKRM: Efficient Key-Value Retrieval Method to Reduce Data Lookup Overhead for Redis** \
+Yiming Yao, Xiaolin Wang, Diyu Zhou, <ins>Liujia Li</ins>, Jianyu Wu, Liren Zhu, Zhenlin Wang, and Yingwei Luo \
+European Conference on Parallel and Distributed Processing (Euro-Par '24) \
+<i class="fas fa-file-pdf" aria-hidden="true"></i> [paper](https://link.springer.com/chapter/10.1007/978-3-031-69577-3_12)
+&nbsp; <i class="fas fa-link"></i> [doi](https://doi.org/10.1007/978-3-031-69577-3_12)
 
 
 
